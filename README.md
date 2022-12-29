@@ -2,7 +2,7 @@
 
 Powered by **MongoDB**, **Express**, **React** and **Node**, styled with **MaterialUI**.  
 
-Deployed at https://cheeterdash.onrender.com/dashboard
+Deployed at https://cheeterdash.onrender.com/
 
 ## Visualize mock data for transactions
 
