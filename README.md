@@ -1,8 +1,8 @@
 # cheeterDash: A fullstack data visualizing dashboard
 
-Powered by **MongoDB**, **Express**, **React** and **Node**, styled with **MaterialUI**.  
+- Powered by **MongoDB**, **Express**, **React** and **Node**, styled with **MaterialUI**.  
 
-Deployed at https://cheeterdash.onrender.com/
+- Deployed at https://cheeterdash.onrender.com/
 
 ## Visualize mock data for transactions
 
